@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">zanza</string>
+
+    <string-array name="items_weight_array">
+        <item>grams</item>
+        <item>litres</item>
+        <item>count</item>
+    </string-array>
+
+    <string-array name="items_category_array">
+        <item>fruits</item>
+        <item>vegetable</item>
+        <item>pulses</item>
+        <item>spices</item>
+        <item>dairy</item>
+        <item>beverages</item>
+        <item>others</item>
+    </string-array>
+
+</resources>

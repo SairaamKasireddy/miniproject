@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891563069618",
+    "firebase_url": "https://zanza-21cc4.firebaseio.com",
+    "project_id": "zanza-21cc4",
+    "storage_bucket": "zanza-21cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891563069618:android:21f932d57be2df1fd979ab",
+        "android_client_info": {
+          "package_name": "com.sairaam.zanza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891563069618-053v6s4svi4k7a2qmebone98q5ae8rsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT43jw8EZHgubdwXQq8VRWeplMRdSOo6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891563069618-053v6s4svi4k7a2qmebone98q5ae8rsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
